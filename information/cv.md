@@ -74,14 +74,6 @@ Presentations include topics such as web development, web design, and digital hu
 - Created design mockups, production images and code for new websites, with an emphasis on ease of use and accessibility, in addition to integration with old systems.
 - Left Commission with materials to migrate old content to new templates and integrate login and security mechanisms for the site, as well as vector based graphics for advertising purposes.
 - Site can be found at: [nebraskaccess.nebraska.gov](http://nebraskaccess.nebraska.gov/) (design has changed since first implemented, but some design elements remain)
-## Other Selected Employment
-
-- **Douglas County Post Gazette | Elkhorn, NE | Web Designer/Programmer**
-`January 2002 – May 2007`
-- **Blick Art Materials | Lincoln, Nebraska | Supervisor/Keyholder**
-`November 2002 – May 2006`
-- **Arts Incorporated | Lincoln, Nebraska | Coordinator, Marketer, Grant Writer**
-`February 2005 – August 2006`
 ## Selected Publications
 
 - Opitz, Rachel; Richards-Rissetto, Heather; Dalziel, Karin; Dussault, Jessica; and Tunink, Greg. "Affording Archaeological Data Reinterpretation: Exploring 3D Data Reuse & Repurposing through Procedural Modeling," in _Critical Archaeology in the Digital Age_ edited by K. Garstki (Cotsen Institute of Archaeology Press Los Angeles, California, Forthcoming).
@@ -211,6 +203,12 @@ _University of Nebraska-Omaha, NE_
 
 ## Selected Grant Activity
 
+- **Technical Lead**
+`2023`
+The Willa Cather Archive - A Digital Library of Willa Cather's Literary Manuscripts (forthcoming)
+- **Technical Lead**
+`2021`
+[African Poetry Digital Portal](https://africanpoetics.unl.edu/)
 - **Co-Director**
 `2020`
 [Revitalizing & Enhancing the Open Source 3D WebGIS of MayaArch3D](https://cdrhsites.unl.edu/mayaarch3d/)
@@ -359,11 +357,9 @@ _Omaha, NE_
 
 - Grant Reviewer `2024`
 - Grant Reviewer `2021`
-
 #### Digital Humanities Conference, 2014
 
 - Proposal Reviewer 
-
 #### Digital Humanities Conference, 2013
 
 - Proposal Reviewer
